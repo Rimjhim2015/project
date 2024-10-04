@@ -198,14 +198,12 @@ p{
 
 .top-banner{
     width: 100%;
-    background-image: url(imgs/bg/bg-1.jpg) ;
-    
+    background-image: url(imgs/bg/image.png) ;
     background-position: center;
     background-repeat: no-repeat;
     
     background-size: cover;
     padding: 14.87rem 0 9.375rem;
-    
 }
 
 .counter-section{
