@@ -393,3 +393,6 @@ border-radius: 0.9378rem;
     color: var(--white-color);
     padding: 0 1rem ;
 }
+.container{
+    margin: 3rem;
+}
