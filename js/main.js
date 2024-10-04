@@ -1,4 +1,4 @@
-//active navbar
+
 let nav = document.querySelector(".navigation-wrap");
 window.onscroll = function (){
     if(document.documentElement.scrollTop >20){
@@ -10,7 +10,7 @@ window.onscroll = function (){
 }
 
 
-//navbar hide
+
 let navbar=document.querySelectorAll('.nav-link');
 let navCollapse =document.querySelector('.navbar-collapse.collapse');
 navbar.forEach(function(a){
@@ -19,7 +19,7 @@ navbar.forEach(function(a){
     })
 })
 
-//counter design//
+
 
 document.addEventListener("DOMContentLoaded", () => {
    function counter(id , start , end, duration){
