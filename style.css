@@ -153,7 +153,7 @@ p{
     color: var(--white-color);
 }
 nav{
-    background-color: #00204a;
+    background-color: rgb(0, 32, 74);
     height: 10%;
 }
 
@@ -404,8 +404,8 @@ border-radius: 0.9378rem;
     margin: 3rem;
 }
 .footer-container{
-  background-color: #00204a;
-  color: white;
+  background-color: #8b8c8d;
+  color: rgb(1, 20, 159);
 }
 .footer-content{
   padding: 0 12rem;
@@ -450,14 +450,14 @@ border-radius: 0.9378rem;
 .footer-box input{
   width: 100%;
   border: none;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid rgb(0, 17, 172);
   background-color: transparent;
   font-size: 1.1rem;
   color: white;
 }
 .footer-box button{
   font-size: 1rem;
-  color: white;
+  color: rgb(5, 0, 158);
   background-color: #00bbf0;
   border: 0;
   height: 2.7rem;
